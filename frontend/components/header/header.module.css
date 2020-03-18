@@ -1,0 +1,29 @@
+.header{
+  /* background-color: #90a4ae; */
+  /* padding-bottom: 10px;
+  padding-top: 10px; */
+}
+/* .drawer_bar{
+  font-size: 40px;
+  padding-right: 10px;
+  margin: 10px;
+} */
+.drawer_icon{
+  /* align-items: flex-end!important;
+  text-align: right!important; */
+  font-size: 30px;
+  color: white;
+  margin-left: 10px;
+  margin-top: 6px;
+  /* margin-bottom: 10px; */
+}
+.app_title{
+  padding: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+}
+/* .search_bar{
+  padding: 10px;
+  padding-left: 50px;
+} */
